@@ -21,7 +21,7 @@ import io
 
 from PIL import Image
 
-PATH = 'C:\\Users\\rossl\\OneDrive\\Documents\\chrome scraper\\chromedriver.exe'
+PATH = 
 
 wd = webdriver.Chrome(PATH)
 
